@@ -37,6 +37,7 @@ public class AppTest
     }
     
     public void testAdd() {
+    	//This is adding a comment
     	assertEquals(10,new Calculator().add(5, 5));
     }
     
